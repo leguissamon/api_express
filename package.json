@@ -1,0 +1,25 @@
+{
+  "name": "api_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leguissamon/api_express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/leguissamon/api_express/issues"
+  },
+  "homepage": "https://github.com/leguissamon/api_express#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
